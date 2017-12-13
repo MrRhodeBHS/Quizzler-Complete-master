@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+    
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">An integer is a primitive"</string>
+    <string name="question_2">// is know as a mulitline comment"</string>
+    <string name="question_3">BlueJ is a professional strength IDE"</string>
+    <string name="question_4">Marquette has a top notch computer science program"</string>
+    <string name="question_5">Most android app are coded in Java"</string>
+    <string name="question_6">A common version control system is Google Drive"</string>
+    <string name="question_7">XML and HTML have a lot in common"</string>
+    <string name="question_8">Java and JavaScript are the same programming language"</string>
+    <string name="question_9">Static final variables are known as constants"</string>
+    <string name="question_10">Static variables are also called class variables"</string>
+    <string name="question_11">Primitives are passed by value"</string>
+    <string name="question_12">Objects are passed by value"</string>
+    <string name="question_13">A string is a primitive."</string>
+
+</resources>
