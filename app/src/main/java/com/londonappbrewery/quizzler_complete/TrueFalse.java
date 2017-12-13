@@ -27,7 +27,7 @@ public class TrueFalse {
 
 //    public void setQuestionID(int questionID) {
 //        mQuestionID = questionID;
-//    }
+//    }  // only in Rhode code not commented out in text version
 
 //    public void setAnswer(boolean answer) {
 //        mAnswer = answer;

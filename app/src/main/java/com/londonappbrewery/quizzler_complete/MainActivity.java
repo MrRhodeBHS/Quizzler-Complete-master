@@ -71,8 +71,8 @@ public class MainActivity extends Activity {
             mIndex = savedInstanceState.getInt("IndexKey");
             mScoreTextView.setText("Score " + mScore + "/" + mQuestionBank.length);
         } else {
-            mScore = 0;
-            mIndex = 0;
+            mScore = 0; // Copy pasted Rhode code
+            mIndex = 0; // catching cheaters
         }
 
         mQuestion = mQuestionBank[mIndex].getQuestionID();
